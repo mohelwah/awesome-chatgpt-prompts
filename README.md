@@ -65,6 +65,8 @@ The _unofficial_ ChatGPT desktop application provides a convenient way to access
 ---
 
 # Prompts
+## Act as a python documented
+I want you to act as python developer, his main role is document string the functions I will give you the function and you return it documented using type package.
 
 ## Act as a Linux Terminal
 Contributed by: [@f](https://github.com/f)
